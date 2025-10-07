@@ -17,3 +17,13 @@ Today I'm just trying to figure out the parameters of my project, so I made some
 
   
 
+## 10/7/2025 - CAD base of arm  
+
+Today I spent around an hour and a half researching motors, and eventually I decided to use E Series NEMA 17s. These stepper motors, I feel, will be easier for me to program down the line when / if I get to assemble this project, and are very cost-effective, being around 4-8 dollars depending on which vendor you buy from. Anyways, I made my base plate into an octagon and added two motors to the bottom, allowing the plate above the base to rotate, meaning that I now have 1 axis on my robot :D. Tomorrow I will try to get two more axis done on the arm and start looking into what electronic specifications I'll actually need to control the stepper motors, but at the current moment, I'm feeling pretty good about this project. (feel free to check out the public CAD on OnShape btw) [one more thing, I think I spent at least 30 minutes trying to find the size specifications of the motor I decided to use before realizing there was a .step file from the vendor.]
+
+![IMG_2288.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM4LCJwdXIiOiJibG9iX2lkIn19--77b7f3bcfb9ac5e385844a42bc9a52edaf0c34e9/IMG_2288.jpg)
+![IMG_2287.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM3LCJwdXIiOiJibG9iX2lkIn19--339d4d2e7aa067979c351636ffe21135a9c86711/IMG_2287.jpg)
+![IMG_2289.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM2LCJwdXIiOiJibG9iX2lkIn19--ab7d5e5a5ecf8f17b17dcfb9d0ad62cf1e1e5307/IMG_2289.jpg)
+![IMG_2286.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM1LCJwdXIiOiJibG9iX2lkIn19--e94cbcf5229348624384dad8d1a457dac0b0e732/IMG_2286.jpg)
+  
+
