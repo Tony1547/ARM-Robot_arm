@@ -27,3 +27,11 @@ Today I spent around an hour and a half researching motors, and eventually I dec
 ![IMG_2286.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM1LCJwdXIiOiJibG9iX2lkIn19--e94cbcf5229348624384dad8d1a457dac0b0e732/IMG_2286.jpg)
   
 
+## 10/8/2025 - Shoulder CAD  
+
+Today, I spent a little too much time overthinking how I would implement the first pivot/axis of movement on the arm. Eventually, I decided on a simple pulley and belt system. The rest of the CAD should be easier, up until the wrist and claw, or gripper, or hand. I haven't really decided on what will be at the end of the arm yet; maybe something modular would be nice. But this will be the end of day 3 of working on the arm, and I'm quite happy with how it's turning out.![IMG_2298.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk1LCJwdXIiOiJibG9iX2lkIn19--b6fec1213176a9424f752b1f79300650f6600584/IMG_2298.jpg)![IMG_2297.jpg](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk5LCJwdXIiOiJibG9iX2lkIn19--9ac1b73e3b63b0f1ba0e619e1a1cbac22bbf68eb/IMG_2297.jpg)
+![IMG_2298.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk4LCJwdXIiOiJibG9iX2lkIn19--8e441aa6665b9e3084b3b742f56a709f8c11882a/IMG_2298.jpg)
+![IMG_2296.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3LCJwdXIiOiJibG9iX2lkIn19--4a794f4cf4b4c094fe07fb77bd3b12dab9ee627c/IMG_2296.jpg)
+![IMG_2295.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk2LCJwdXIiOiJibG9iX2lkIn19--0e9594bb2978da0b3aa0defb8cddf65b070925e6/IMG_2295.jpg)
+  
+
