@@ -35,3 +35,13 @@ Today, I spent a little too much time overthinking how I would implement the fir
 ![IMG_2295.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk2LCJwdXIiOiJibG9iX2lkIn19--0e9594bb2978da0b3aa0defb8cddf65b070925e6/IMG_2295.jpg)
   
 
+## 10/9/2025 - Planetary Gear Box CAD  
+
+So today I mainly focused on how to get the second arm portion of the robot arm to spin, and after thinking through my options, I decided to go through one motor driving a planetary gearbox. To those who don't know what that is, the system is usually comprised of the outer gear, some "planet" gears, and a main "sun" gear in the center, and depending on which gear you make stationary/drive the system, there are 6 different possible gear ratios that can come out of it(I think). The great thing about this gearbox in particular is that it gives me a great amount of torque for a relatively compact design. After designing my gearbox system, I started to work on actually attaching it to the rest of the arm, and that's when I realized that I'm going to have to remove the 7x7x15in the starting config requirement I set at the start of this project, unfortunately. However, I'm proud of today's progress, and if I keep this pace up, I should have the majority of this arm in CAD by Sunday.![IMG_2306.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8460bdf0973c88c2fd42033cfadd977fb5fd5b3a/IMG_2306.jpg)
+![IMG_2308.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--64886b0dce5fea8a3cdd3e82689ea6f8a35bd52e/IMG_2308.jpg)
+![IMG_2303.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1MywicHVyIjoiYmxvYl9pZCJ9fQ==--c329c987b4b52557ca94013c1a28e9d41e90e32d/IMG_2303.jpg)
+![IMG_2307.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--6470d95ee8ec4269f1396e3d99bd9074d9253a92/IMG_2307.jpg)
+![IMG_2304.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bd750738276d990e846782850a6cc8d3fec39158/IMG_2304.jpg)
+![IMG_2309.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--137235c37eaf72ca7800d08d432288fc887e12fe/IMG_2309.jpg)
+  
+
