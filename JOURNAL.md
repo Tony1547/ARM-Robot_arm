@@ -10,14 +10,14 @@ This is my journal of the design and building process of **Robotic arm**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/223).
 
 
-## 10/6/2025 - Created Onshape DOC and made a readme  
+## 10/5/2025 - Created Onshape DOC and made a readme  
 
 Today I'm just trying to figure out the parameters of my project, so I made some limits in Onshape and started looking at some references online. The image attached is just a VERY rough sketch (It's getting pretty late for me). The plan for tomorrow is to research what motors I'll be using and basing the rest of the project on, and get more geometry done in Onshape (I think it'll be really cool if I can reuse some random motor off another mechanism, like a 3D printer or something, but we'll see).
 ![img_2273.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjcyLCJwdXIiOiJibG9iX2lkIn19--c75bb35ea2407931a879617ea3f7113e83a65106/img_2273.jpg)
 
   
 
-## 10/7/2025 - CAD base of arm  
+## 10/6/2025 - CAD base of arm  
 
 Today I spent around an hour and a half researching motors, and eventually I decided to use E Series NEMA 17s. These stepper motors, I feel, will be easier for me to program down the line when / if I get to assemble this project, and are very cost-effective, being around 4-8 dollars depending on which vendor you buy from. Anyways, I made my base plate into an octagon and added two motors to the bottom, allowing the plate above the base to rotate, meaning that I now have 1 axis on my robot :D. Tomorrow I will try to get two more axis done on the arm and start looking into what electronic specifications I'll actually need to control the stepper motors, but at the current moment, I'm feeling pretty good about this project. (feel free to check out the public CAD on OnShape btw) [one more thing, I think I spent at least 30 minutes trying to find the size specifications of the motor I decided to use before realizing there was a .step file from the vendor.]
 
@@ -27,7 +27,7 @@ Today I spent around an hour and a half researching motors, and eventually I dec
 ![IMG_2286.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM1LCJwdXIiOiJibG9iX2lkIn19--e94cbcf5229348624384dad8d1a457dac0b0e732/IMG_2286.jpg)
   
 
-## 10/8/2025 - Shoulder CAD  
+## 10/7/2025 - Shoulder CAD  
 
 Today, I spent a little too much time overthinking how I would implement the first pivot/axis of movement on the arm. Eventually, I decided on a simple pulley and belt system. The rest of the CAD should be easier, up until the wrist and claw, or gripper, or hand. I haven't really decided on what will be at the end of the arm yet; maybe something modular would be nice. But this will be the end of day 3 of working on the arm, and I'm quite happy with how it's turning out.![IMG_2298.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk1LCJwdXIiOiJibG9iX2lkIn19--b6fec1213176a9424f752b1f79300650f6600584/IMG_2298.jpg)![IMG_2297.jpg](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk5LCJwdXIiOiJibG9iX2lkIn19--9ac1b73e3b63b0f1ba0e619e1a1cbac22bbf68eb/IMG_2297.jpg)
 ![IMG_2298.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk4LCJwdXIiOiJibG9iX2lkIn19--8e441aa6665b9e3084b3b742f56a709f8c11882a/IMG_2298.jpg)
@@ -35,7 +35,7 @@ Today, I spent a little too much time overthinking how I would implement the fir
 ![IMG_2295.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk2LCJwdXIiOiJibG9iX2lkIn19--0e9594bb2978da0b3aa0defb8cddf65b070925e6/IMG_2295.jpg)
   
 
-## 10/9/2025 - Planetary Gear Box CAD  
+## 10/8/2025 - Planetary Gear Box CAD  
 
 So today I mainly focused on how to get the second arm portion of the robot arm to spin, and after thinking through my options, I decided to go through one motor driving a planetary gearbox. To those who don't know what that is, the system is usually comprised of the outer gear, some "planet" gears, and a main "sun" gear in the center, and depending on which gear you make stationary/drive the system, there are 6 different possible gear ratios that can come out of it(I think). The great thing about this gearbox in particular is that it gives me a great amount of torque for a relatively compact design. After designing my gearbox system, I started to work on actually attaching it to the rest of the arm, and that's when I realized that I'm going to have to remove the 7x7x15in the starting config requirement I set at the start of this project, unfortunately. However, I'm proud of today's progress, and if I keep this pace up, I should have the majority of this arm in CAD by Sunday.![IMG_2306.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8460bdf0973c88c2fd42033cfadd977fb5fd5b3a/IMG_2306.jpg)
 ![IMG_2308.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--64886b0dce5fea8a3cdd3e82689ea6f8a35bd52e/IMG_2308.jpg)
@@ -44,4 +44,15 @@ So today I mainly focused on how to get the second arm portion of the robot arm 
 ![IMG_2304.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bd750738276d990e846782850a6cc8d3fec39158/IMG_2304.jpg)
 ![IMG_2309.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--137235c37eaf72ca7800d08d432288fc887e12fe/IMG_2309.jpg)
   
+
+## 10/14/2025 - Update+Slight Redesign  
+
+YO, hi, it's been a few days, I got a little burnt out on Friday, so I took Saturday as a break day, and since then I've forgotten to update my journal :/ Anyway, I didn't like how the joint between the forearm and the first joint was just pure motor, so I designed a cycloidal gearbox over the past few days to allow the arm to have more torque. Tomorrow,![IMG_2373.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8686d2871169cf1c098f17844f02b286d422ed9b/IMG_2373.jpg)
+![IMG_2374.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4NywicHVyIjoiYmxvYl9pZCJ9fQ==--bf5b53df1e988db76dbbd6c5c3782f6a009d25c5/IMG_2374.jpg)
+![IMG_2368.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--57f4b96788811ac198071004eb69655876b3bab1/IMG_2368.jpg)
+![IMG_2369.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f94be44f925de64e1c2c1a9892c7ed9418ab88b/IMG_2369.jpg)
+![IMG_2370.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f0d79df87847b4bb11aff527518f707cdd16614e/IMG_2370.jpg)
+![IMG_2371.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4MywicHVyIjoiYmxvYl9pZCJ9fQ==--faf4bb68ff5411034c06b84b48e72f343adb01b2/IMG_2371.jpg)
+![IMG_2372.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--effc06f730dcf168f4b26bcd1a1e546e680a3ef8/IMG_2372.jpg)
+ I plan on using more cycloidal gearboxes and try to get everything, including a wrist, done in CAD so that I can start researching how I'm actually going to control the arm.   
 
