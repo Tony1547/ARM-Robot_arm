@@ -56,3 +56,14 @@ YO, hi, it's been a few days, I got a little burnt out on Friday, so I took Satu
 ![IMG_2372.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--effc06f730dcf168f4b26bcd1a1e546e680a3ef8/IMG_2372.jpg)
  I plan on using more cycloidal gearboxes and try to get everything, including a wrist, done in CAD so that I can start researching how I'm actually going to control the arm.   
 
+## 10/17/2025 - More Redesign  
+
+I think I'm going to stick to a 2-3 day journal update from this point forward, it's becoming much less stressful that way, sorta. Anyways, these past 3 days I reflected over the progress I made and what I liked and didn't like, and decided to make quite a few design changes. Firstly, I was able to find a structure/ housing for the NEMA-17 that I'm using that allows the rest of the arm to become more modular with the help of cycloidal gearboxes. In my experience with this project, I've had a better time packaging cycloidal gear boxes compared to planetary gear boxes, and for that reason think I'm going to try and stick to the cycloidal gear boxes. Speaking of, I believe I got a great idea of how the wrist joint is going to come together. Another change I made was upping the gear ratio from 12:1 to 13:1; this still might change in the future. I'm going to try and make my design much more tubular from what it is currently to help support its own weight. That's it for today's journal. This weekend, I really want to get a final? draft the design and start working on the other electronic components. 
+
+![IMG_2400.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c3a718899ae2ab1f3647793e5e9171709f82a7b/IMG_2400.jpg)
+![IMG_2398.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f155aeb25b8b358ef758b1021894e9cb688f844d/IMG_2398.jpg)
+![IMG_2399.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--af147551699aff36147793444b89b124a5dfff3e/IMG_2399.jpg)
+![IMG_2402.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ca4a80968d1a6651d187631739639a4e4def646a/IMG_2402.jpg)
+![IMG_2401.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0NywicHVyIjoiYmxvYl9pZCJ9fQ==--c4d3e2ae80b4be6bf4e7a90d4cffaaef130c6b8b/IMG_2401.jpg)
+  
+
