@@ -67,3 +67,22 @@ I think I'm going to stick to a 2-3 day journal update from this point forward, 
 ![IMG_2401.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0NywicHVyIjoiYmxvYl9pZCJ9fQ==--c4d3e2ae80b4be6bf4e7a90d4cffaaef130c6b8b/IMG_2401.jpg)
   
 
+## 10/19/2025 - New Base + 1st & 2nd Wrist axis done  
+
+SO, I did stuff, now I'm gonna talk about it. Firstly, the wrist now has a second axis :D I was able to add this second axis with the servo I chose for this project, being the SpringRC SM-S4303R, it's a continuous servo, meaning it can spin infinitely in both directions, unlike most other common types of servos. I then made a servo horn to attach a gear to the servo to allow for the actual movement of this second axis. The gears I decided to use are herringbone gears set to a 20-degree slant with a gear ratio of around 0.86 for more speed. The next addition since the last journal has been the base of the arm. For the base, I didn't want to move away from the casing I had cadded earlier in the project, and luckily I didn't have to, although you can't really see it. Other than the Nema-17 case, the base itself is made of 3 3D-printed parts at a height of 185mm or around 7.3in. Other than that, I started coloring the 3D printed parts in an orange-white-black color scheme (it looks pretty cool imo). It looks like I'm going to have the arm end with 5 motors and 2 servos. After this journal, I will try to get the claw finished before the next one and start on PCB design, which I have never done before, which is kinda exciting. Also, I've gotten quite a few more views since I last checked, so I'll re-add the OnShape link here: https://cad.onshape.com/documents/ecbd6cc453a8401336b7f5f6/w/f74fdc9fda9bb867202e9585/e/a6897884a06ac11cb13f5e31?renderMode=0&uiState=68f57788594fd9c4d4a5c7c8
+
+![IMG_2425.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--a190e84ecafa902e42dc17903e483d262e8f2205/IMG_2425.jpg)
+![IMG_2431.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b7e7c41b9ade7eabf49cc3b80d7c56e2c1d2b4ad/IMG_2431.jpg)
+![IMG_2436.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--4eee3289e16a998c740ed5a5dbdf85e5407c630c/IMG_2436.jpg)
+![IMG_2434.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MywicHVyIjoiYmxvYl9pZCJ9fQ==--66766a3a53460804f0c71d3663c242c7a4e84ded/IMG_2434.jpg)
+![IMG_2433.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bae85557f374a83f7f91522b9d231e650726dd3/IMG_2433.jpg)
+![IMG_2424.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NywicHVyIjoiYmxvYl9pZCJ9fQ==--001728ea283d009e40828652b0c9cad7a674618f/IMG_2424.jpg)
+![IMG_2429.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a6fdb7e1edb360a247f181c173e2fd3365d24ff9/IMG_2429.jpg)
+![IMG_2427.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7c448c69a22f9dcd48502c11f0bbf0867b51f5dc/IMG_2427.jpg)
+![IMG_2428.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3MywicHVyIjoiYmxvYl9pZCJ9fQ==--edbaea4a7829feeabcee9ae45d642cdcdae0928c/IMG_2428.jpg)
+![IMG_2426.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--443900319213ef9bd947a3ed4172244ef7e4e44a/IMG_2426.jpg)
+![IMG_2435.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--3bfde9fd846ca36ce0f8fe0f69a602195839b543/IMG_2435.jpg)
+![IMG_2432.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb3c755432cbfc78fd34f7b80dc40fec4c1056bd/IMG_2432.jpg)
+![IMG_2430.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e8998b2a923700ebd62e84e30d36a1418942e5e7/IMG_2430.jpg)
+  
+
