@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Robotic arm**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/223).
-
-
 ## 10/5/2025 - Created Onshape DOC and made a readme  
 
 Today I'm just trying to figure out the parameters of my project, so I made some limits in Onshape and started looking at some references online. The image attached is just a VERY rough sketch (It's getting pretty late for me). The plan for tomorrow is to research what motors I'll be using and basing the rest of the project on, and get more geometry done in Onshape (I think it'll be really cool if I can reuse some random motor off another mechanism, like a 3D printer or something, but we'll see).
@@ -84,5 +80,21 @@ SO, I did stuff, now I'm gonna talk about it. Firstly, the wrist now has a secon
 ![IMG_2435.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--3bfde9fd846ca36ce0f8fe0f69a602195839b543/IMG_2435.jpg)
 ![IMG_2432.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb3c755432cbfc78fd34f7b80dc40fec4c1056bd/IMG_2432.jpg)
 ![IMG_2430.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e8998b2a923700ebd62e84e30d36a1418942e5e7/IMG_2430.jpg)
+  
+
+## 10/20/2025 - Finished Claw Design + Started BOM-Sheet  
+
+Got a claw design done today :D. and with that I have everything but a PCB desgin, design review and a clean and organized BOM and ReadMe. The claw design I used was mainly borrowed from this youtube video I found: https://youtube.com/shorts/wmAnCUXIYNk?si=n38H_gmRiVCv12PW I love the simplicity of it and just the way it works. I made some more minor changes to the rest of the arm and labeled every part that will be 3D-printed. I also assigned materials to all parts other than the servo and M3 heat insert, at the current moment the arm costs $126.92 but since I have access to some of the materials on the BOM it should cost just a bit less. The weight in the cad is a bit off at 8.89lbs It should be less becuase OnShape is calculating if the print was 100% solid. I might change the arm design later if I find a reason to but im currently happy with how it works, being driven by a custom M11 screwon a servo. Ill probably start PCB design tommorow or at least learn the basics of PCB design since I havent done that before. Im also thinking about raising the gear ratio from 13:1 to 20:1 on the cycloidal gear boxes.
+
+BOM: https://docs.google.com/spreadsheets/d/1Lh4vcFsB7JDnlQWwo5IQARkVCZ8p0WDa4wIufgZOBxc/edit?gid=1715060129#gid=1715060129
+
+
+![IMG_2446.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0NywicHVyIjoiYmxvYl9pZCJ9fQ==--f2c359805f2b72bfd849c5836e23182e65e0afe2/IMG_2446.jpg)
+![IMG_2445.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--355b6a22cb1218add0e3d925fdf90622113c88be/IMG_2445.jpg)
+![IMG_2442.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0MywicHVyIjoiYmxvYl9pZCJ9fQ==--2445dc7d7af8305942f7446160baf91b4b40ba4b/IMG_2442.jpg)
+![IMG_2443.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a52dc52dea1698414e57bdefa6963be2c3fa8cfc/IMG_2443.jpg)
+![IMG_2441.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--b3d19dbdedb9e67b150e62bffd0626de4c31bd9c/IMG_2441.jpg)
+![IMG_2444.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--7370c5c8f943dbda905e5f6a23469cfe6f13e9df/IMG_2444.jpg)
+
   
 
