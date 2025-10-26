@@ -100,7 +100,7 @@ BOM: https://docs.google.com/spreadsheets/d/1Lh4vcFsB7JDnlQWwo5IQARkVCZ8p0WDa4wI
 
 ## 10/26/2025 - Started PCB schematic  
 
-It took a few days to watch a bunch of PCB design tutorials, but I later realized it would probably be better to start and fix whatever mistakes I found later. I've decided on my driver chip, the TMC2209, and the AS5600 as my encoder. The following images are me trying to figure out PCB design.
+It took a few days to watch a bunch of PCB design tutorials, but I later realized it would probably be better to start and fix whatever mistakes I found later. I've decided on my driver chip, the TMC2209, and the AS5600 as my encoder. The following image is me trying to figure out PCB design.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--bb708fd70d27dc837f02d3b06d0f290ceb7d9317/image.png)
   
