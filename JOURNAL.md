@@ -103,5 +103,16 @@ BOM: https://docs.google.com/spreadsheets/d/1Lh4vcFsB7JDnlQWwo5IQARkVCZ8p0WDa4wI
 It took a few days to watch a bunch of PCB design tutorials, but I later realized it would probably be better to start and fix whatever mistakes I found later. I've decided on my driver chip, the TMC2209, and the AS5600 as my encoder. The following image is me trying to figure out PCB design.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--bb708fd70d27dc837f02d3b06d0f290ceb7d9317/image.png)
+
   
+## 11/15/2025 - Life got busy again
+
+Wow, been a bit since I've journaled, but over the past year I have made some small progress on the arm and learned a lot more in general. Since my last journal, my school has upgraded their 3d printers and allowed me to prototype some cycloidal gearboxes, which I learned how to properly CAD during fallout while scrolling through some old Onshape forums. I was also able to salvage a bunch of old parts the robotics team was throwing away for this project. I have also started a third major redesign of the arm, looking back I was not happy with the lack of robustness and structural integrity it had. School started back up for me in august and since then I have made three gearbox prototypes, learned how to control a single stepper motor using an old ender 3 mobo and rescoped what I want to accomplish in this iteration. I've also had the opportunity to mess around with pneumatics, which I am thinking about using to actuate the claw. Here are some pictures of my progress:
+
+
+<img width="1049" height="1553" alt="image" src="https://github.com/user-attachments/assets/de69c189-11fb-42d7-860a-efcfb767e054" />
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/43d982da-af46-42fd-80e4-b2b366c8d4d0" />
+
+
+
 
