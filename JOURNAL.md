@@ -107,11 +107,14 @@ It took a few days to watch a bunch of PCB design tutorials, but I later realize
   
 ## 11/15/2025 - Life got busy again
 
-Wow, been a bit since I've journaled, but over the past year I have made some small progress on the arm and learned a lot more in general. Since my last journal, my school has upgraded their 3d printers and allowed me to prototype some cycloidal gearboxes, which I learned how to properly CAD during fallout while scrolling through some old Onshape forums. I was also able to salvage a bunch of old parts the robotics team was throwing away for this project. I have also started a third major redesign of the arm, looking back I was not happy with the lack of robustness and structural integrity it had. School started back up for me in august and since then I have made three gearbox prototypes, learned how to control a single stepper motor using an old ender 3 mobo and rescoped what I want to accomplish in this iteration. I've also had the opportunity to mess around with pneumatics, which I am thinking about using to actuate the claw. Here are some pictures of my progress:
+Wow, been a bit since I've journaled, but over the past year I have made some small progress on the arm and learned a lot more in general. Since my last journal, my school has upgraded their 3d printers and allowed me to prototype some cycloidal gearboxes, which I learned how to properly CAD during fallout while scrolling through some old Onshape forums. I was also able to salvage a bunch of old parts the robotics team was throwing away for this project. I have also started a third major redesign of the arm, looking back I was not happy with the lack of robustness and structural integrity it had, I do plan to keep it mostly 3d printed. School started back up for me in august and since then I have made three gearbox prototypes, learned how to control a single stepper motor using an old ender 3 mobo and rescoped what I want to accomplish in this iteration. I've also had the opportunity to mess around with pneumatics, which I am thinking about using to actuate the claw. Here are some pictures of my progress:
 
 
 <img width="1049" height="1553" alt="image" src="https://github.com/user-attachments/assets/de69c189-11fb-42d7-860a-efcfb767e054" />
 <img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/43d982da-af46-42fd-80e4-b2b366c8d4d0" />
+<img width="1902" height="961" alt="image" src="https://github.com/user-attachments/assets/b6d60ff5-64a7-4c52-8ce5-0d52cb06b008" />
+<img width="1889" height="954" alt="image" src="https://github.com/user-attachments/assets/5a902ae2-aa5d-4fe3-a749-782160fa28af" />
+<img width="1899" height="963" alt="image" src="https://github.com/user-attachments/assets/0a8dc61f-2566-4e63-9912-7c0cb2a2903b" />
 
 
 
